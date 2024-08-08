@@ -1,3 +1,7 @@
 welcome
+<<<<<<< Updated upstream
 this is main branch
 this is change to be pulled to local
+=======
+this is main branchstash changes1
+>>>>>>> Stashed changes
